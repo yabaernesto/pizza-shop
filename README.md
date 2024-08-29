@@ -2,8 +2,14 @@
 
 Projeto pratico desenvolvido durante o treinamento da Rocketseat na trilha de ReactJS!
 
+### Techs
+- ReactJS
+- TypeScript
+- TailwindCSS
+- Shadcn/ui
+
 #### screen
-<div style="width: 250px;">
+<div>
   <img src="./public/Captura de tela de 2024-08-29 22-17-15.png" />
   <img src="./public/Captura de tela de 2024-08-29 22-18-19.png" />
 </div>
