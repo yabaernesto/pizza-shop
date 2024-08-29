@@ -26,7 +26,7 @@ export function SignIn() {
           onClick: () => handleSignIn(data),
         },
       });
-    } catch (error) {
+    } catch {
       toast.error('Credenciais invalidas!');
     }
   }
