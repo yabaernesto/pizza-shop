@@ -41,7 +41,7 @@ export function SignIn() {
           className="absolute right-4 top-8"
           asChild 
         >
-          <Link to='/sign-out'>
+          <Link to='/sign-up'>
             Novo estabelecimento
           </Link>
         </Button>
