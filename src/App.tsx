@@ -3,8 +3,8 @@ import { router } from './router';
 import { RouterProvider } from 'react-router-dom';
 import { Toaster } from 'sonner';
 
-import './global.css';
 import { ThemeProvider } from './components/theme/theme-provider';
+import './global.css';
 
 export function App() {
 
